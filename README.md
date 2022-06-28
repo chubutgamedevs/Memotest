@@ -1,6 +1,6 @@
 # Memotest+
 
-!(Menu Principal)[Screenshots/menuprincipal.png]
+![Menu Principal](/Screenshots/menuprincipal.PNG)
 
 
 ## Cómo Instalar
@@ -9,11 +9,11 @@
 
 ## Cómo Jugar
 
-!(Dificultad)[Screenshots/dificultad.png]
+![Dificultad](/Screenshots/dificultad.PNG)
 
-!(Juego)[Screenshots/Juego.png]
+![Juego](/Screenshots/Juego.PNG)
 
-!(En juego)[Screenshots/ingame.png]
+![En juego](/Screenshots/ingame.PNG)
 
 ## Créditos
 
